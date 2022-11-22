@@ -1,4 +1,4 @@
 Authors:
-Timo Kaasik
-Villem Paabo
-Edvard Notberg
+Timo Kaasik, 
+Villem Paabo,
+Edvard Notberg 
